@@ -18,6 +18,8 @@ public class DarkanVeylor {
 				+ "ligera de tonos metálicos y detalles en tonos verde esmeralda,\n"
 				+ "diseñada tanto para movilidad como para simbolizar su rango como\n"
 				+ "Arconte Errante.");
+		System.out.println("Frase tipica:\n\t"
+				+ "No temo a la oscuridad, fui forjado en ella.");
 		
 	}
 
