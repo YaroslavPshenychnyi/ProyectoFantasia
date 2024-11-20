@@ -22,7 +22,8 @@ public class Madoe {
 				+ "al atardecer morados y por la noche brillan en un color innexistente en el mundo humano. Pero debido a su naturaleza \n"
 				+ "mitad-humana sólo el ojo izquierdo sufre estos cambios. El derecho es verde.\n"
 				+ "\n"
-				+ "-- Personalidad: Travieso, egoísta, caótico, timador, amigable");
+				+ "-- Personalidad: Travieso, egoísta, caótico, timador, amigable\n\n"
+				+ "-- Frase: \"Nunca esperes nada de nadie, es mejor estar sorpendido que decepcionado.\"");
 
 	}
 
