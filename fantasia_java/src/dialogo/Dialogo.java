@@ -3,6 +3,7 @@ package dialogo;
 public class Dialogo {
 
 	public static void main(String[] args) {
+		
 		System.out.println(
 				"Nuestra historia comienza con el sílbido del viento y la tétrica sinfonia de un bosque durante la noche.\n"
 						+ "Los bosques nunca han sido un lugar donde las razas mas civilizadas sean bienvenidas, pero a traves de éste discurría un ondulante camino \n"

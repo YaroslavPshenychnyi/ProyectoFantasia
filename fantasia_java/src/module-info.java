@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module fantasia_java {
-}
