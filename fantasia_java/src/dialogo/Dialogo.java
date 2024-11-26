@@ -40,6 +40,10 @@ public class Dialogo {
 				+ "un accidente, haberme \ndespertado en a saber donde y el haber perdido todas mis pertenencias, y eso que he buscado lo mejor que he podido con esta pierna maltrecha..."
 				+ " ¿Eso que eschucho es agua?\nAgua y algo más, ¿alguien está cantando? Esto no me gusta... - la joven paró en seco - ¿Quién hay ahí? - dijo lo más alto que le permitió su "
 				+ "raspada voz");
+		
+		System.out.println();
+		System.out.println("	-Lalaral- -el hada calló bruscamente tras oir una voz inesperada-. ¿Quién pregunta? -Sin levantar la mirada inclinó ligeramente la\n"
+				+ "mirada-. ");
 	}
 
 }
