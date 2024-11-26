@@ -35,7 +35,11 @@ public class Dialogo {
 				+ " como reacciona al encontrarse con un hada. Tendré que estar atento e intervenir en caso de enmergencia>>\n"
 				+ "Observo como la humana se acerca cojeando hacia el hada, que hace rato ha dejado de acordarse de los ancestros del pobre general y ha vuelto a canturrear sobre pescar."
 				);
-		
+		System.out.println();
+		System.out.println("     -Tsk, maldito palo... menudo bastón me he ido a buscar, aunque bueno, el camino tampoco es que ayude mucho. Aaah. Bueno eso y el haber sufrido "
+				+ "un accidente, haberme \ndespertado en a saber donde y el haber perdido todas mis pertenencias, y eso que he buscado lo mejor que he podido con esta pierna maltrecha..."
+				+ " ¿Eso que eschucho es agua?\nAgua y algo más, ¿alguien está cantando? Esto no me gusta... - la joven paró en seco - ¿Quién hay ahí? - dijo lo más alto que le permitió su "
+				+ "raspada voz");
 	}
 
 }
