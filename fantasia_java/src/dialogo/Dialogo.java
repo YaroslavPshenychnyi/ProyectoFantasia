@@ -47,6 +47,12 @@ public class Dialogo {
 		System.out.println();
 		System.out.println("    -He pregunatdo yo primero - intentó sonar más valiente de lo que se sentía en aquel momento en el que el corazón parecía que se le iba a salir del pecho,\n"
 				+ "la cabeza le daba vueltas y el dolor le iba a consumir. Empezó a acercarse hacia donde se encontraba el hada - Mira, sólo quiero un poco de agua y me iré, \nno quiero problemas.");
+		System.out.println();
+		System.out.println("La joven herida se acercó con cautela hacia el pequeño estanque que había mas allá del poste donde el hada estaba sentada, siempre manteniendo su mirada fija en ella, que se limitaba\n"
+				+ " a observarla con sus ojos multicolor y una sonrisa burlona, como si mirara a un niño tropezarse mientras corre. <<Bueno, de momento no parece que vaya a ver problemas, pero...¿Qué es esto?¿Otra presencia en mi bosque?¿Siglos\n"
+				+ "sin que venga nadie y hoy llegan tres el mismo día?>> Observo como en uno de los caminos se acerca una figura enorme envuelta en una armadura verde que no oculta del todo su piel color gris y las exrañas líneas azules que discurren como venas brillantes sobre su piel\n"
+				+ "<< Cómo no, un Arconte en mi bosque>>, se está dirigiendo hacia las otras dos forasteras y, teniendo en cuenta la naturaleza de esa feérica, probablemente estalle una pelea... oh bueno veremos que ocurre>\n"
+				+ "Vigilo a la enorme figua acercarse al poste del la Encrucijada, donde el hada sigue observando divertida a la pobre humana beber agua."  );
 	}
 
 }
