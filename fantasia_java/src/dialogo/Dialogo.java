@@ -37,13 +37,16 @@ public class Dialogo {
 				);
 		System.out.println();
 		System.out.println("     -Tsk, maldito palo... menudo bastón me he ido a buscar, aunque bueno, el camino tampoco es que ayude mucho. Aaah. Bueno eso y el haber sufrido "
-				+ "un accidente, haberme \ndespertado en a saber donde y el haber perdido todas mis pertenencias, y eso que he buscado lo mejor que he podido con esta pierna maltrecha..."
+				+ "un accidente, haberme \ndespertado en a saber dónde y el haber perdido todas mis pertenencias, y eso que he buscado lo mejor que he podido con esta pierna maltrecha..."
 				+ " ¿Eso que eschucho es agua?\nAgua y algo más, ¿alguien está cantando? Esto no me gusta... - la joven paró en seco - ¿Quién hay ahí? - dijo lo más alto que le permitió su "
 				+ "raspada voz");
 		
 		System.out.println();
 		System.out.println("	-Lalaral- -el hada calló bruscamente tras oir una voz inesperada-. ¿Quién pregunta? -Sin levantar la mirada inclinó ligeramente la\n"
 				+ "mirada-. ");
+		System.out.println();
+		System.out.println("    -He pregunatdo yo primero - intentó sonar más valiente de lo que se sentía en aquel momento en el que el corazón parecía que se le iba a salir del pecho,\n"
+				+ "la cabeza le daba vueltas y el dolor le iba a consumir. Empezó a acercarse hacia donde se encontraba el hada - Mira, sólo quiero un poco de agua y me iré, \nno quiero problemas.");
 	}
 
 }
