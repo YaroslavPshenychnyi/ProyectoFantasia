@@ -53,6 +53,10 @@ public class Dialogo {
 				+ "sin que venga nadie y hoy llegan tres el mismo día?>> Observo como en uno de los caminos se acerca una figura enorme envuelta en una armadura verde que no oculta del todo su piel color gris y las exrañas líneas azules que discurren como venas brillantes sobre su piel\n"
 				+ "<< Cómo no, un Arconte en mi bosque>>, se está dirigiendo hacia las otras dos forasteras y, teniendo en cuenta la naturaleza de esa feérica, probablemente estalle una pelea... oh bueno veremos que ocurre>\n"
 				+ "Vigilo a la enorme figua acercarse al poste del la Encrucijada, donde el hada sigue observando divertida a la pobre humana beber agua."  );
+		
+		System.out.println();
+		System.out.println("	—No esperaba encontrarme con un hada cantando y una terrestre perdida en este bosque olvidado -dijo, su voz profunda rompiendo \n"
+				+ "el aire con un peso que hacía temblar las ramas más cercanas—. Hablad, antes de que decida que no merecéis estar aquí.");
 	}
 
 }
