@@ -77,6 +77,10 @@ public class Dialogo {
 		System.out.println();
 		System.out.println("-¡¡E-eso no-no es así!! -tartamudeo el hada-. ¡Todo fue un malentendido! Cuando vuelva a mi puesto nadie se atreverá a hablarme con\n"
 				+ "esa insolencia. ¿Y quién se supone que eres tú?");
+		
+		System.out.println("\"¿Quién soy yo?\" Darkan dio un paso hacia adelante, su voz resonando como el eco de un trueno distante "
+				+ "mientras sus ojos se clavaban en los de Madoe. \"Soy alguien que conoce tu verdadera naturaleza, Madoe Falkryn. "
+				+ "Alguien que no se deja engañar por tus palabras melosas ni por los restos de autoridad que pretendes exhibir.\"");
 	}
 
 }
