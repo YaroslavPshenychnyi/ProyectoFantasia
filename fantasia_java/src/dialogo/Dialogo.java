@@ -66,6 +66,13 @@ public class Dialogo {
 		
 		System.out.println();
 		System.out.println("	Madoe Falkryn, ¿sigues aferrándote a títulos que te fueron arrebatados? Este bosque te tolera, pero no te pertenece.");
+		
+		System.out.println();
+		System.out.println("    <<¿Qué está pasando ahora mismo? ¿Quiénes son ástas personas? ¿Acaso son personas?>> - los pensamientos de Elia iban a mil - "
+				+ "<<No entiendo nada... Nunca pensé que diría (o pensaría en este caso) esto, pero quiero volver a mi vida normal, si al menos tuviera mi arco..."
+				+ "Ahhh no pensaría que lo fuera a echar tanto de menos. Quizá lo mejor sea que me vaya de aquí mientras lo que sea que son estos seres están "
+				+ "distrídos>> - la joven comenzó a avanzar poco a poco, intentando hacer el menor ruido que su pie inservible le permitía, hasta que vió algo "
+				+ "que llamó su atención - <<Un momento, ¿eso de ahí es mi arco? Ay Dios, no creeré en ti, pero ¡gracias!>>");
 	}
 
 }
