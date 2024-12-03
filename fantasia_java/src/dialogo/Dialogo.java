@@ -65,7 +65,7 @@ public class Dialogo {
 				+ "hablarme en ese tono?! Yo soy Madoe Falkryn, guardián de la puerta y habitante de este bosque.");
 		
 		System.out.println();
-		System.out.println("	-¿Falkryn..? -...-. El único ser con ese nombre fue desterrado por el rey debido a ");
+		System.out.println("	Madoe Falkryn, ¿sigues aferrándote a títulos que te fueron arrebatados? Este bosque te tolera, pero no te pertenece.");
 	}
 
 }
