@@ -73,6 +73,10 @@ public class Dialogo {
 				+ "Ahhh no pensaría que lo fuera a echar tanto de menos. Quizá lo mejor sea que me vaya de aquí mientras lo que sea que son estos seres están "
 				+ "distrídos>> - la joven comenzó a avanzar poco a poco, intentando hacer el menor ruido que su pie inservible le permitía, hasta que vió algo "
 				+ "que llamó su atención - <<Un momento, ¿eso de ahí es mi arco? Ay Dios, no creeré en ti, pero ¡gracias!>>");
+		
+		System.out.println();
+		System.out.println("-¡¡E-eso no-no es así!! -tartamudeo el hada-. ¡Todo fue un malentendido! Cuando vuelva a mi puesto nadie se atreverá a hablarme con\n"
+				+ "esa insolencia. ¿Y quién se supone que eres tú?");
 	}
 
 }
