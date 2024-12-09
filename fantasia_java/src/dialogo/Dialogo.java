@@ -68,7 +68,7 @@ public class Dialogo {
 		System.out.println("	Madoe Falkryn, ¿sigues aferrándote a títulos que te fueron arrebatados? Este bosque te tolera, pero no te pertenece.");
 		
 		System.out.println();
-		System.out.println("    <<¿Qué está pasando ahora mismo? ¿Quiénes son ástas personas? ¿Acaso son personas?>> - los pensamientos de Elia iban a mil - "
+		System.out.println("    <<¿Qué está pasando ahora mismo? ¿Quiénes son éstas personas? ¿Acaso son personas?>> - los pensamientos de Elia iban a mil - "
 				+ "<<No entiendo nada... Nunca pensé que diría (o pensaría en este caso) esto, pero quiero volver a mi vida normal, si al menos tuviera mi arco..."
 				+ "Ahhh no pensaría que lo fuera a echar tanto de menos. Quizá lo mejor sea que me vaya de aquí mientras lo que sea que son estos seres están "
 				+ "distrídos>> - la joven comenzó a avanzar poco a poco, intentando hacer el menor ruido que su pie inservible le permitía, hasta que vió algo "
@@ -81,6 +81,10 @@ public class Dialogo {
 		System.out.println("\"¿Quién soy yo?\" Darkan dio un paso hacia adelante, su voz resonando como el eco de un trueno distante "
 				+ "mientras sus ojos se clavaban en los de Madoe. \"Soy alguien que conoce tu verdadera naturaleza, Madoe Falkryn. "
 				+ "Alguien que no se deja engañar por tus palabras melosas ni por los restos de autoridad que pretendes exhibir.\"");
-	}
+	
+		System.out.println("<<Esto no es bueno, el arconte parece estar buscando pelea y dudo que el hada pueda vencerle. Tampoco quiero que la humana corra peligro\n"
+				+ ", me gustaría escihar su historia>>. Contemplo durante unos instantes como, tras las palabras de Darkan, Madoe le sostiene la mirada durante unos segundos con confusión en su mirada.\n"
+				+ "Mientras, la humana se aleja con discreccion hacia el lugar donde descansa su arco. <<¿Quizas debería intervenir? No, todavía no. Les daré una oportunidad para calmar los ánimos>>.");	
+		}
 
 }
