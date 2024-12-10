@@ -272,6 +272,15 @@ public class Dialogo {
 				+ "\t-Este bosque ha atrapado a muchos, pero pocos son los que logran escapar. Si deseas volver a tu hogar, joven arquera, encontraremos juntos la senda que te lleve allí.-");
 		contYaroslav++;
 		
+		System.out.println();
+		System.out.println("Observo en silencio como estas 3 personas tan dispares conversan. <<No será necesario que busqueis la salida. Como os he dicho, estais en mi reino y, si bien no se \n"
+				+ "como habeis acadado aquí, puedo mandaros transportaros a otros lugares. Por desgracia, joven Elia. No puedo mandarte de vuelta a tu mundo. Como te he dicho, es un lugar muy dificl\n"
+				+ " de acceder y son pocas las criaturas capaces de hacerlo. Pero no desespereís, siempre hay una manera.>> Mientras hablo, una niebla gris los empieza a rodear. <<Ha sido un placer conversar\n"
+				+ " con vosotros, pero aquí no esta vuestro camino. Os mandare a uno de los mundos que conozco. Poderosos habitantes tiene y, sin duda, os podrán ayudar.>> Veo como Darkan coge a Elia del brazo a \n"
+				+ " medida que el una salvaje ventolera  azota el bosque. El hada, Madoe, se agarra a su otro brazo para no salir volando.<<Mucha suerte amigos míos, sin duda, nos volveremos a ver>> Con esas últimas palabras,\n"
+				+ " los tres desaparecen del bosque, y me quedo solo, contemplando las brasas. <<Os estaré observando>> murmullo, antes de desvanecerme yo también. ");
+		contSergio++;
+		
 		System.out.println("Sergio: " + contSergio);
 		System.out.println("Maria: " + contMaria);
 		System.out.println("Yaroslav: " + contYaroslav);
