@@ -11,8 +11,7 @@ public class EliaValenor {
 				+ "Hobbies: Dormir, jugar a juegos de mesa\n"
 				+ "Sueños y aspiraciones: Poder vivir una vida normal fuera de la fama a la cual le arrastró su madre, "
 				+ "que quería vivir sus sueños a través de su hija\n"
-				+ "Frases/Chascarrillos: 'Dormir es para principiantes, yo entro en coma', 'A mí no me preguntes "
-				+ "sólo soy una chica'\n"
+				+ "Frases/Chascarrillos: 'A mí no me preguntes sólo soy una chica'\n"
 				+ "Estado: En shock tras haber sufrido un accidente de avión y aparecer en un mundo mágico\n"
 				+ "Descripción: Mujer, complexión atlética, pelo largo de color castaño, ojos marrones\n"
 				+ "Personalidad: Confiada, insegura y observadora\n");

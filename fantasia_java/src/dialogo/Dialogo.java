@@ -106,6 +106,10 @@ public class Dialogo {
 		
 		System.out.println(" <<¡Es sufciente!>>. Mi voz se alza sobre los árboles. <<Os he dado la oportunidad para llegar a un acuerdo a través del diálogo, pero veo que los ánimos estan demasiado caldeados, NO permitiré violencia en mis dominios sin mi permiso>>. Veo como\n"
 				+ " los tres se vuelven confusos mientras miran en todas las direcciones, buscando de donde viene mi voz.<<No se cómo habeis llegado aqui y me gustaría escuhar vuestras historias, pero no aceptaré muestras de hostilidad, ¿Está claro?, por favor humana, depón tus armas>>.");		
-		}
+		
+		System.out.println();
+		System.out.println("-  ¿Qué?, pero ¿qué...? ¿Que deponga las armas? - la chica empezó a reír histéricamente - Definitivamente he muerto o me he vuelto loca. Mientras dos a-saber-qué están discutiendo entre ellos, una voz, que a saber de donde viene, me dice que me deshaga de lo\n"
+				+ "único que podría protegerme. Ni en una de mis películas...");
+	}
 
 }
