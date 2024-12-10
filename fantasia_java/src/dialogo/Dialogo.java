@@ -238,6 +238,11 @@ public class Dialogo {
 				+ "herida, con su arco desaparecido y hambrienta, llegó a la conclusión de que esa tregua que ofrecía el arconte no era tan mala idea. - Gracias. - murmuró cogiendo el plato de comida que le ofrecía.");
 		contMaria++;
 		
+		System.out.println();
+		System.out.println("	-Mmmm, que rico señor pero aún no sé con quien estoy tratando, si fuese tan amable de dejarme conocer su nombre... -dijo el hada\n"
+				+ "encogiendose para no enfadar al poderoso desconocido-.");
+		contLucia++;
+		
 		System.out.println("Sergio: " + contSergio);
 		System.out.println("Maria: " + contMaria);
 		System.out.println("Yaroslav: " + contYaroslav);
