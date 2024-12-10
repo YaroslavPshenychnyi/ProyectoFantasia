@@ -267,6 +267,11 @@ public class Dialogo {
 				+ "pequeña, si algo he aprendido con los años, es que este no es un bosque seguro para los de tu calaña.");
 		contLucia++;
 		
+		System.out.println();
+		System.out.println("	-Tus palabras, hada, carecen de sabiduría y propósito.- Suspiro profundamente, mirando a Elia con seriedad.\n"
+				+ "\t-Este bosque ha atrapado a muchos, pero pocos son los que logran escapar. Si deseas volver a tu hogar, joven arquera, encontraremos juntos la senda que te lleve allí.-");
+		contYaroslav++;
+		
 		System.out.println("Sergio: " + contSergio);
 		System.out.println("Maria: " + contMaria);
 		System.out.println("Yaroslav: " + contYaroslav);
