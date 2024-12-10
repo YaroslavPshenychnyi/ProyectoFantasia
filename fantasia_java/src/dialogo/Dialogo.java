@@ -98,6 +98,12 @@ public class Dialogo {
 		System.out.println("     -¡¿Perdón?! ¡¿CÓMO QUE TU ARCO?! - Elia enrojeció de furia. Puede que su madre hubiera elegido su vida por ella, pero el tiro con arco era algo que ella había elegido, y no toleraba que nadie\ntocase algo tan \"sagrado\" para ella."
 				+ "Instintivamente llevó su mano a donde deberían encontrarse sus flechas, pero allí no encontró nada - ¡¿Dónde están mis flechas?! ¡ESTOY HARTA YA DE TODO!");
 		
+		System.out.println();
+		System.out.println("	-¡Humana, tu escándalo sólo me enfurece más!- rugió Darkan, \n"
+				+ "su voz reverberando con una autoridad innegable mientras giraba su imponente figura hacia Elia.\n"
+				+ "\t-¿Tienes idea de dónde estás? ¿Crees que tus gritos y tu frágil arco te protegerán en este bosque? \n"
+				+ "Déjame advertirte, tus imprudencias sólo lograrán atraer la atención de fuerzas que no puedes comprender.-");
+		
 		}
 
 }
