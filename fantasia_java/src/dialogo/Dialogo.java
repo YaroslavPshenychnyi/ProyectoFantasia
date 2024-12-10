@@ -125,6 +125,12 @@ public class Dialogo {
 				+ "Una terrible ventolera barre las copas de los árboles y veo como los cabellos de mis tres húesepedes se erizan ante mi presencia. Aparezco entre en frente de los tres con una de mis formas favortias. La del anciano caminante cuyas únicas pertenencias son una vara para el camino y una capa marrón para el polvo."
 				+ "<<Os doy la bienvenida al la Encrucijada, no os molesteís en preguntarme el nombre pues no tengo. Por favor, sentaos, tenemos mucho de que hablar, a no ser que nuestro valiente Arconte decida que debo someterme a su justicia.>> Miro hacia la imponente figura con tranquilidad, sin perder de vista\n"
 				+ " a la asustada humana y al hada, que parece estara mas sorprendida que aterrorizada");		
+		
+		System.out.println();
+		System.out.println("	-¿Anciano, dices?- Darkan dio un paso adelante, la luz que se filtraba entre los árboles reflejándose en las líneas azules de su piel.\n"
+				+ "\t-O, al menos, eso parece. Pero las apariencias engañan, y tú, más que nadie, deberías saberlo. Este lugar... este bosque... parece estar en desorden.\n"
+				+ "Un hada desterrada que clama por venganza, una humana fuera de lugar con su mundo destrozado y yo, un Arconte que nunca pretendió llegar aquí.\n"
+				+ "Y, sin embargo, aquí estamos, juntos, frente a ti.");
 	}
 
 }
