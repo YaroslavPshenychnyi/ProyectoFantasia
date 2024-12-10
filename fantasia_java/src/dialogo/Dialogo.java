@@ -214,6 +214,13 @@ public class Dialogo {
 				+ "si así lo desea... -el hada se veía aliviado aunque con cierta desesperación por el susto- Pero señor, ¿está seguro de dejar con vida a estos indeseables?");
 		contLucia++;
 		
+		System.out.println();
+		System.out.println("<<Madoe, el hada desterrada>>, la miro fijamente <<Eres muy amable por ofrecerme tus capturas y tu servicio pero no son necesarios, que ironía sería pasar\n"
+				+ " hambre en mis propias tierras.>>, rio alegremente sin dejar de mirarla << Respecto a tu otra pregunta, la humana no busca problemas, hasta un ciego se daría cuenta de\n"
+				+ " eso y en cuanto a nuestro valiente arconte...>> Miro al gigante con intesidad, está recuperando el color <<Creo que se comportará. Bien, ¿Quién tiene hambre?>> Sacudo la\n"
+				+ " mano y aparece al lado del pote un caldero que emite un delicioso olor a estofado y especias. <<Por favor, sentaos alrededor del fuego>>. Dejo la vara en el suelo mi me siento\n"
+				+ " junto al caldero, en el que introduzco un cucharón de madera y empiezo a servir en paltos de céramica roja");
+		contSergio++;
 		System.out.println("Sergio: " + contSergio);
 		System.out.println("Maria: " + contMaria);
 		System.out.println("Yaroslav: " + contYaroslav);
