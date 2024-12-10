@@ -154,6 +154,12 @@ public class Dialogo {
 		System.out.println("	-¡Ohh gran voz, tenga piedad de mí sólo soy un anciano, no conozco a estos forasteros! -clamó el anciano hada-. Haga lo que guste con estos "
 				+ "intrusos y dejeme ir. A cambio le pagaré con tod- con gran parte de mis pertenencias -corrigió el hada-, en mis largos años de mi vida he podido "
 				+ "recolectar cientos de cachibaches humanos y feericos, son suyos si me deja ir ileso ¡oh gran voz!");
+		
+		System.out.println();
+		System.out.println("	-Silencio, hada.- Darkan agitó la mano y un pequeño imán que llevaba colgado como "
+				+ "un talismán comenzó a vibrar, atrayendo polvo brillante del aire. -Tu desesperación no me engaña."
+				+ "Este imán ha detectado una energía vinculada a ti. Si sigues con tus mentiras, "
+				+ "puede que lo use para revelar tu verdadera naturaleza.\"\n");
 	}
 
 }
