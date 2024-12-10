@@ -262,6 +262,11 @@ public class Dialogo {
 				+ "Quizá tu habilidad aún tenga un papel importante por jugar.");
 		contYaroslav++;
 		
+		System.out.println();
+		System.out.println("-¡JÁ! -exclamó el hada-. ¿Tiro con arco? ¿Una humana como tú? Pobre de tus padres claramente querían deshacerse de ti -rió el hada-. Pero dejame advertirte\n"
+				+ "pequeña, si algo he aprendido con los años, es que este no es un bosque seguro para los de tu calaña.");
+		contLucia++;
+		
 		System.out.println("Sergio: " + contSergio);
 		System.out.println("Maria: " + contMaria);
 		System.out.println("Yaroslav: " + contYaroslav);
