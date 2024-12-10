@@ -94,6 +94,9 @@ public class Dialogo {
 		System.out.println("	-¡Eh tú! -grito el hada-. ¿Robarle a un anciano mientras hablan los mayores? ¡Qué insolencia! -dijo cambiando a una forma más amigable "
 				+ "y anciana-. Una humana tan joven en este bosque... Parece una broma del destino. ¡¡Devuelveme mi arco!!");
 		
+		System.out.println();
+		System.out.println("     -¡¿Perdón?! ¡¿CÓMO QUE TU ARCO?! - Elia enrojeció de furia. Puede que su madre hubiera elegido su vida por ella, pero el tiro con arco era algo que ella había elegido, y no toleraba que nadie\ntocase algo tan \"sagrado\" para ella."
+				+ "Instintivamente llevó su mano a donde deberían encontrarse sus flechas, pero allí no encontró nada - ¡¿Dónde están mis flechas?! ¡ESTOY HARTA YA DE TODO!");
 		
 		}
 
