@@ -249,6 +249,13 @@ public class Dialogo {
 				+ " Dal, si así o deseais>>. Como una cucharada de estofado antes de continuar. <<Delcioso. Bien, me gustaría saber como habeís llegado aquí, especialmente tu, humana. Provienes de un mundo muy dificl de alcanzar.");
 		contSergio++;
 		
+		System.out.println();
+		System.out.println("     -Hmm... - la chica se revolvió en su sitio, aún no convencida del todo de si debería confiar en esa gente - Ni si quiera yo sé como he llegado hasta aquí - soltó una pequeña\n"
+				+ "al recordar una frase que le encantaba decir cuando mno tenía respuesta para algo.- \"A mí no me preguntes, sólo soy una chica.\" - susurró - Lo único que sé es que estaba yendo a una competición de\n"
+				+ "tiro con arco en Corea del Sur. En algún momento mientras intetaba dormir, el avión empezó a sufrir unas turbulencias horribles. Lo siguiente que sé es caos y ya despertarme en este sitio, sola y malherida...\n"
+				+ "- Elia contuvo un sollozo provocado por la impotencia que sentía en aquel momento.");
+		contMaria++;
+		
 		System.out.println("Sergio: " + contSergio);
 		System.out.println("Maria: " + contMaria);
 		System.out.println("Yaroslav: " + contYaroslav);
