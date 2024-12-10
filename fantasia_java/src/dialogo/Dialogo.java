@@ -65,7 +65,7 @@ public class Dialogo {
 				+ "hablarme en ese tono?! Yo soy Madoe Falkryn, guardián de la puerta y habitante de este bosque.");
 		
 		System.out.println();
-		System.out.println("	Madoe Falkryn, ¿sigues aferrándote a títulos que te fueron arrebatados? Este bosque te tolera, pero no te pertenece.");
+		System.out.println("	-Madoe Falkryn, ¿sigues aferrándote a títulos que te fueron arrebatados? Este bosque te tolera, pero no te pertenece.");
 		
 		System.out.println();
 		System.out.println("    <<¿Qué está pasando ahora mismo? ¿Quiénes son éstas personas? ¿Acaso son personas?>> - los pensamientos de Elia iban a mil -\n"
@@ -83,12 +83,18 @@ public class Dialogo {
 				+ "Alguien que no se deja engañar por tus palabras melosas ni por los restos de autoridad que pretendes exhibir.\"");
 	
 		System.out.println("<<Esto no es bueno, el arconte parece estar buscando pelea y dudo que el hada pueda vencerle. Tampoco quiero que la humana corra peligro\n"
-				+ ", me gustaría escihar su historia>>. Contemplo durante unos instantes como, tras las palabras de Darkan, Madoe le sostiene la mirada durante unos segundos con confusión en su mirada.\n"
+				+ ", me gustaría escuchar su historia>>. Contemplo durante unos instantes como, tras las palabras de Darkan, Madoe le sostiene la mirada durante unos segundos con confusión en su mirada.\n"
 				+ "Mientras, la humana se aleja con discreccion hacia el lugar donde descansa su arco. <<¿Quizas debería intervenir? No, todavía no. Les daré una oportunidad para calmar los ánimos>>.");
 		
 		System.out.println();
 		System.out.println("<<Sólo un poco más y por fin tendré mi arco>> - la joven no se estaba creyendo su suerte. La adrenalina corría por todo su cuerpo. - ¡Por fin! - gritó una vez consiguió el ansiado arma.\n"
 				+ " - Ups... me da que he hablado un poquito alto.");
+		
+		System.out.println();
+		System.out.println("	-¡Eh tú! -grito el hada-. ¿Robarle a un anciano mientras hablan los mayores? ¡Qué insolencia! -dijo cambiando a una forma más amigable "
+				+ "y anciana-. Una humana tan joven en este bosque... Parece una broma del destino. ¡¡Devuelveme mi arco!!");
+		
+		
 		}
 
 }
