@@ -221,6 +221,12 @@ public class Dialogo {
 				+ " mano y aparece al lado del pote un caldero que emite un delicioso olor a estofado y especias. <<Por favor, sentaos alrededor del fuego>>. Dejo la vara en el suelo mi me siento\n"
 				+ " junto al caldero, en el que introduzco un cucharón de madera y empiezo a servir en paltos de céramica roja");
 		contSergio++;
+		
+		System.out.println();
+		System.out.println("   - ¿De verdad esperas que me siente a comer con vosotros? - en ese momento las tripas de la chica rugieron con intensidad - <<¿En serio?>> - pensó, perjurando en todos los idiomas que sabía\n"
+				+ ". Elia miró a su alrededor y se sentó reticentemente lo más alejada posible de todas aquellas criaturas.");
+		contMaria++;
+		
 		System.out.println("Sergio: " + contSergio);
 		System.out.println("Maria: " + contMaria);
 		System.out.println("Yaroslav: " + contYaroslav);
