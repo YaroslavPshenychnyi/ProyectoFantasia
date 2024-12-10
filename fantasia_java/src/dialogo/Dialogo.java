@@ -196,7 +196,13 @@ public class Dialogo {
 				+ "puede que lo use para revelar tu verdadera naturaleza.\"\n");
 		contYaroslav++;
 		
-		
+		System.out.println();
+		System.out.println("Suspiro, cansado de la impertinencia del arconte. <<Mi verdadera naturaleza... Debería agradecer que haya tomado una forma tan amable.\n"
+				+ " Me da la sensacion de que no sabes con quien estas hablando. Que así sea pues. Te lo mostaré. Chasqueo los dedos, que sueltan chispas anaranjadas y\n"
+				+ " el osado arconte se convierte en... una rueda de queso ante las atónitas miradas de la humana y el hada. Dejo pasar unos segundos antes de darme por \n"
+				+ "satisfecho y volver a chasquear los dedos, devolviendole su cuerpo al gigante arrogante cuyo rostro ha palidecido notablemente. <<Muy bien, si has terminado tu\n"
+				+ " numerito sobre desenmascararme, os invito cordialmente sentarnos alrededor del fuego e intercambiar historias, ¿Qué me decís?>>");
+		contSergio++;
 		
 		System.out.println("Sergio: " + contSergio);
 		System.out.println("Maria: " + contMaria);
