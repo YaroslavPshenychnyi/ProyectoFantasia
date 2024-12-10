@@ -146,6 +146,9 @@ public class Dialogo {
 				+ " un brinco sobresaltada. <<Ya os he pedido amablemente que enfrieis los animos, pero mi paciencia en ese tema se ha agotado conque os lo pregunto directamente a\n"
 				+ " los tres y sed consicentes de que no es facil engañarme>> digo esto último mientras miro al hada <<  ¿Vais a comportaros como buenos invitados en mi reino.. o no?>>");
 	
+		System.out.println();
+		System.out.println("    - Mi... mi arco... no está... - Elia empezó a llorar. La poca adrenalina que podía quedar en su cuerpo, la mínima valentía que había obtenido al conseguir su arco le abandonaron.\n"
+				+ "Su mundo se había reducido a cenizas, literalmente.");
 	}
 
 }
