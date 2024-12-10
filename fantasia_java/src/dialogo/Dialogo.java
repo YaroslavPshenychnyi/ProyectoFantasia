@@ -243,6 +243,12 @@ public class Dialogo {
 				+ "encogiendose para no enfadar al poderoso desconocido-.");
 		contLucia++;
 		
+		System.out.println();
+		System.out.println("<<No>> contesto simplemente. La respuesta parece coger de imprevisto al hada, que veo como abre los ojos sorpendida ante la brevedad de mi\n"
+				+ " negación. <<Los nombres dan poder, hija del bosque. Por lo que no os daré mi verdadero nombre. No obstante, me han llamado de muchas formas. Podeis llamarme \n"
+				+ " Dal, si así o deseais>>. Como una cucharada de estofado antes de continuar. <<Delcioso. Bien, me gustaría saber como habeís llegado aquí, especialmente tu, humana. Provienes de un mundo muy dificl de alcanzar.");
+		contSergio++;
+		
 		System.out.println("Sergio: " + contSergio);
 		System.out.println("Maria: " + contMaria);
 		System.out.println("Yaroslav: " + contYaroslav);
