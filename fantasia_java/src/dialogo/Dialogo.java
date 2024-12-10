@@ -149,6 +149,11 @@ public class Dialogo {
 		System.out.println();
 		System.out.println("    - Mi... mi arco... no está... - Elia empezó a llorar. La poca adrenalina que podía quedar en su cuerpo, la mínima valentía que había obtenido al conseguir su arco le abandonaron.\n"
 				+ "Su mundo se había reducido a cenizas, literalmente.");
+		
+		System.out.println();
+		System.out.println("	-¡Ohh gran voz, tenga piedad de mí sólo soy un anciano, no conozco a estos forasteros! -clamó el anciano hada-. Haga lo que guste con estos "
+				+ "intrusos y dejeme ir. A cambio le pagaré con tod- con gran parte de mis pertenencias -corrigió el hada-, en mis largos años de mi vida he podido "
+				+ "recolectar cientos de cachibaches humanos y feericos, son suyos si me deja ir ileso ¡oh gran voz!");
 	}
 
 }
