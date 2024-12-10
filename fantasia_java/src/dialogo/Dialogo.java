@@ -104,6 +104,8 @@ public class Dialogo {
 				+ "\t-¿Tienes idea de dónde estás? ¿Crees que tus gritos y tu frágil arco te protegerán en este bosque? \n"
 				+ "Déjame advertirte, tus imprudencias sólo lograrán atraer la atención de fuerzas que no puedes comprender.-");
 		
+		System.out.println(" <<¡Es sufciente!>>. Mi voz se alza sobre los árboles. <<Os he dado la oportunidad para llegar a un acuerdo a través del diálogo, pero veo que los ánimos estan demasiado caldeados, NO permitiré violencia en mis dominios sin mi permiso>>. Veo como\n"
+				+ " los tres se vuelven confusos mientras miran en todas las direcciones, buscando de donde viene mi voz.<<No se cómo habeis llegado aqui y me gustaría escuhar vuestras historias, pero no aceptaré muestras de hostilidad, ¿Está claro?, por favor humana, depón tus armas>>.");		
 		}
 
 }
