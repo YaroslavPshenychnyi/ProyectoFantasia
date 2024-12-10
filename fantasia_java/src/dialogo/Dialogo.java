@@ -256,6 +256,12 @@ public class Dialogo {
 				+ "- Elia contuvo un sollozo provocado por la impotencia que sentía en aquel momento.");
 		contMaria++;
 		
+		System.out.println();
+		System.out.println("	-Una competidora de tiro con arco perdida en un reino lejano.-. Ladeo la cabeza mientras la observo.\n"
+				+ "\t-Qué irónica la vida, ¿no crees? Justo cuando creías que el desafío sería una diana, te encuentras enfrentando un mundo completamente nuevo."
+				+ "Quizá tu habilidad aún tenga un papel importante por jugar.");
+		contYaroslav++;
+		
 		System.out.println("Sergio: " + contSergio);
 		System.out.println("Maria: " + contMaria);
 		System.out.println("Yaroslav: " + contYaroslav);
