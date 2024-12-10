@@ -110,6 +110,11 @@ public class Dialogo {
 		System.out.println();
 		System.out.println("-  ¿Qué?, pero ¿qué...? ¿Que deponga las armas? - la chica empezó a reír histéricamente - Definitivamente he muerto o me he vuelto loca. Mientras dos a-saber-qué están discutiendo entre ellos, una voz, que a saber de donde viene, me dice que me deshaga de lo\n"
 				+ "único que podría protegerme. Ni en una de mis películas...");
+		
+		System.out.println();
+		System.out.println("	-En mis 130 años de edad, quedan pocas cosas que me sorprendan… pero esto lo ha logrado. -murmuro el hada, casi como si quisiese que "
+				+ "le pudiesen oir-.");
+		
 	}
 
 }

@@ -23,7 +23,7 @@ public class Madoe {
 				+ "mitad-humana sólo el ojo izquierdo sufre estos cambios. El derecho es verde.\n"
 				+ "\n"
 				+ "-- Personalidad: Travieso, egoísta, caótico, timador, amigable\n\n"
-				+ "-- Frase: \"Nunca esperes nada de nadie, es mejor estar sorpendido que decepcionado.\"");
+				+ "-- Frase: \"En mis 130 años de edad, quedan pocas cosas que me sorprendan… pero esto lo ha logrado.\"");
 
 	}
 
