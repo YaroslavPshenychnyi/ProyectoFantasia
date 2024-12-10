@@ -227,6 +227,12 @@ public class Dialogo {
 				+ ". Elia miró a su alrededor y se sentó reticentemente lo más alejada posible de todas aquellas criaturas.");
 		contMaria++;
 		
+		System.out.println();
+		System.out.println("	-Tu miedo es palpable, humana.- Miro directamente a Elia mientras paso un plato hacia ella.\n"
+				+ "\t-Pero aquí hay un acuerdo tácito: mientras compartas el fuego, no habrá conflicto.\n"
+				+ "Aprovecha esta tregua, pues el bosque no ofrece segundas oportunidades.-");
+		contYaroslav++;
+		
 		System.out.println("Sergio: " + contSergio);
 		System.out.println("Maria: " + contMaria);
 		System.out.println("Yaroslav: " + contYaroslav);
