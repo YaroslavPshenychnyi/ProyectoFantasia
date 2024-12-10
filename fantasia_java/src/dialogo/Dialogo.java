@@ -41,7 +41,7 @@ public class Dialogo {
 				+ "<<¿Cómo narices ha llegado esa humana terrestre aquí? Por su aspecto, no de una forma pacífica. Y yo que pensaba que se habían perdido todos los caminos\n"
 				+ "a ese mundo gris...veremos como reacciona al encontrarse con un hada. Tendré que estar atento e intervenir en caso de enmergencia>>\n"
 				+ "Observo como la humana se acerca cojeando hacia el hada, que hace rato ha dejado de acordarse de los ancestros del pobre general y ha vuelto a canturrear\n"
-				+ " sobre pescar."
+				+ "sobre pescar."
 				);
 		contSergio++;
 		
@@ -59,15 +59,19 @@ public class Dialogo {
 		
 		System.out.println();
 		System.out.println("    -He preguntado yo primero - intentó sonar más valiente de lo que se sentía en aquel momento en el que el corazón parecía que se le iba a salir del pecho,\n"
-				+ "la cabeza le daba vueltas y el dolor le iba a consumir. Empezó a acercarse hacia donde se encontraba el hada - Mira, sólo quiero un poco de agua y me iré, \nno quiero problemas.");
+				+ "la cabeza le daba vueltas y el dolor le iba a consumir. Empezó a acercarse hacia donde se encontraba el hada - Mira, sólo quiero un poco de agua y me iré, \n"
+				+ "no quiero problemas.");
 		contMaria++;
 		
 		System.out.println();
-		System.out.println("La joven herida se acercó con cautela hacia el pequeño estanque que había mas allá del poste donde el hada estaba sentada, siempre manteniendo su mirada fija en ella, que se limitaba\n"
-				+ " a observarla con sus ojos multicolor y una sonrisa burlona, como si mirara a un niño tropezarse mientras corre. <<Bueno, de momento no parece que vaya a ver problemas, pero...¿Qué es esto?¿Otra presencia en mi bosque?¿Siglos\n"
-				+ "sin que venga nadie y hoy llegan tres el mismo día?>> Observo como en uno de los caminos se acerca una figura enorme envuelta en una armadura verde que no oculta del todo su piel color gris y las exrañas líneas azules que discurren como venas brillantes sobre su piel\n"
-				+ "<< Cómo no, un Arconte en mi bosque>>, se está dirigiendo hacia las otras dos forasteras y, teniendo en cuenta la naturaleza de esa feérica, probablemente estalle una pelea... oh bueno veremos que ocurre>\n"
-				+ "Vigilo a la enorme figua acercarse al poste del la Encrucijada, donde el hada sigue observando divertida a la pobre humana beber agua."  );
+		System.out.println("La joven herida se acercó con cautela hacia el pequeño estanque que había mas allá del poste donde el hada estaba sentada, siempre manteniendo\n"
+				+ "su mirada fija en ella, que se limitaba a observarla con sus ojos multicolor y una sonrisa burlona, como si mirara a un niño tropezarse mientras corre.\n"
+				+ "<<Bueno, de momento no parece que vaya a ver problemas, pero...¿Qué es esto?¿Otra presencia en mi bosque? ¿Siglos sin que venga nadie y hoy llegan tres\n"
+				+ "el mismo día?>> Observo como en uno de los caminos se acerca una figura enorme envuelta en una armadura verde que no oculta del todo su piel color gris y\n"
+				+ "las exrañas líneas azules que discurren como venas brillantes sobre su piel.\n"
+				+ "<< Cómo no, un Arconte en mi bosque>>, se está dirigiendo hacia las otras dos forasteras y, teniendo en cuenta la naturaleza de esa feérica, probablemente\n"
+				+ "estalle una pelea... oh bueno veremos que ocurre>\n"
+				+ "Vigilo a la enorme figua acercarse al poste del la Encrucijada, donde el hada sigue observando divertida a la pobre humana beber agua.");
 		contSergio++;
 		
 		System.out.println();
@@ -97,75 +101,76 @@ public class Dialogo {
 				+ "esa insolencia. ¿Y quién se supone que eres tú?");
 		contLucia++;
 		
-		System.out.println("\"¿Quién soy yo?\" Darkan dio un paso hacia adelante, su voz resonando como el eco de un trueno distante "
-				+ "mientras sus ojos se clavaban en los de Madoe. \"Soy alguien que conoce tu verdadera naturaleza, Madoe Falkryn. "
-				+ "Alguien que no se deja engañar por tus palabras melosas ni por los restos de autoridad que pretendes exhibir.\"");
+		System.out.println("	-¿Quién soy yo? -Darkan dio un paso hacia adelante, su voz resonando como el eco de un trueno distante mientras sus ojos se\n"
+				+ "clavaban en los de Madoe-. Soy alguien que conoce tu verdadera naturaleza, Madoe Falkryn. Alguien que no se deja engañar por tus palabras\n"
+				+ "melosas ni por los restos de autoridad que pretendes exhibir.");
 		contYaroslav++;
 		
-		System.out.println("<<Esto no es bueno, el arconte parece estar buscando pelea y dudo que el hada pueda vencerle. Tampoco quiero que la humana corra peligro\n"
-				+ ", me gustaría escuchar su historia>>. Contemplo durante unos instantes como, tras las palabras de Darkan, Madoe le sostiene la mirada durante unos segundos con confusión en su mirada.\n"
-				+ "Mientras, la humana se aleja con discreccion hacia el lugar donde descansa su arco. <<¿Quizas debería intervenir? No, todavía no. Les daré una oportunidad para calmar los ánimos>>.");
+		System.out.println("<<Esto no es bueno, el arconte parece estar buscando pelea y dudo que el hada pueda vencerle. Tampoco quiero que la humana corra\n"
+				+ "peligro, me gustaría escuchar su historia>>. Contemplo durante unos instantes como, tras las palabras de Darkan, Madoe le sostiene la mirada\n"
+				+ "durante unos segundos con confusión en su mirada. Mientras, la humana se aleja con discreción hacia el lugar donde descansa su arco.\n"
+				+ "<<¿Quizas debería intervenir? No, todavía no. Les daré una oportunidad para calmar los ánimos>>.");
 		contSergio++;
 		
 		System.out.println();
-		System.out.println("<<Sólo un poco más y por fin tendré mi arco>> - la joven no se estaba creyendo su suerte. La adrenalina corría por todo su cuerpo. - ¡Por fin! - gritó una vez consiguió el ansiado arma.\n"
-				+ " - Ups... me da que he hablado un poquito alto.");
+		System.out.println("<<Sólo un poco más y por fin tendré mi arco>> -la joven no se estaba creyendo su suerte. La adrenalina corría por todo su cuerpo-.\n"
+				+ "¡Por fin! -gritó una vez consiguió el ansiado arma-. Ups... me da que he hablado un poquito alto.");
 		contMaria++;
 		
 		System.out.println();
-		System.out.println("	-¡Eh tú! -grito el hada-. ¿Robarle a un anciano mientras hablan los mayores? ¡Qué insolencia! -dijo cambiando a una forma más amigable "
+		System.out.println("	-¡Eh tú! -grito el hada-. ¿Robarle a un anciano mientras hablan los mayores? ¡Qué insolencia! -dijo cambiando a una forma más amigable\n"
 				+ "y anciana-. Una humana tan joven en este bosque... Parece una broma del destino. ¡¡Devuelveme mi arco!!");
 		contLucia++;
 		
 		System.out.println();
-		System.out.println("     -¡¿Perdón?! ¡¿CÓMO QUE TU ARCO?! - Elia enrojeció de furia. Puede que su madre hubiera elegido su vida por ella, pero el tiro con arco era algo que ella había elegido, y no toleraba que nadie\ntocase algo tan \"sagrado\" para ella."
-				+ "Instintivamente llevó su mano a donde deberían encontrarse sus flechas, pero allí no encontró nada - ¡¿Dónde están mis flechas?! ¡ESTOY HARTA YA DE TODO!");
+		System.out.println("     -¡¿Perdón?! ¡¿CÓMO QUE TU ARCO?! -Elia enrojeció de furia. Puede que su madre hubiera elegido su vida por ella, pero el tiro\n"
+				+ "con arco era algo que ella había elegido, y no toleraba que nadie tocase algo tan \"sagrado\" para ella. Instintivamente llevó su mano a donde\n"
+				+ "deberían encontrarse sus flechas, pero allí no encontró nada- ¡¿Dónde están mis flechas?! ¡ESTOY HARTA YA DE TODO!");
 		contMaria++;
 		
 		System.out.println();
-		System.out.println("	-¡Humana, tu escándalo sólo me enfurece más!- rugió Darkan, \n"
-				+ "su voz reverberando con una autoridad innegable mientras giraba su imponente figura hacia Elia.\n"
-				+ "\t-¿Tienes idea de dónde estás? ¿Crees que tus gritos y tu frágil arco te protegerán en este bosque? \n"
-				+ "Déjame advertirte, tus imprudencias sólo lograrán atraer la atención de fuerzas que no puedes comprender.-");
+		System.out.println("	-¡Humana, tu escándalo sólo me enfurece más! -rugió Darkan, su voz reverberando con una autoridad innegable mientras giraba su\n"
+				+ "imponente figura hacia Elia-. ¿Tienes idea de dónde estás? ¿Crees que tus gritos y tu frágil arco te protegerán en este bosque? Déjame advertirte,\n"
+				+ "tus imprudencias sólo lograrán atraer la atención de fuerzas que no puedes comprender.");
 		contYaroslav++;
 		
 		System.out.println();
 		System.out.println(" <<¡Es sufciente!>>. Mi voz se alza sobre los árboles. <<Os he dado la oportunidad para llegar a un acuerdo a través del diálogo, pero\n"
-				+ " veo que los ánimos estan demasiado caldeados, NO permitiré violencia en mis dominios sin mi permiso>>. Veo como\n"
-				+ " los tres se vuelven confusos mientras miran en todas las direcciones, buscando de donde viene mi voz.<<No se cómo habeis llegado aqui y me gustaría\n"
-				+ " escuhar vuestras historias, pero no aceptaré muestras de hostilidad, ¿Está claro?, por favor humana, depón tus armas>>.");		
+				+ "veo que los ánimos estan demasiado caldeados, NO permitiré violencia en mis dominios sin mi permiso>>. Veo como los tres se vuelven confusos\n"
+				+ "mientras miran en todas las direcciones, buscando de donde viene mi voz.<<No se cómo habeis llegado aqui y me gustaría escuhar vuestras historias,\n"
+				+ "pero no aceptaré muestras de hostilidad, ¿Está claro?, por favor humana, depón tus armas>>.");		
 		contSergio++;
 		
 		System.out.println();
-		System.out.println("-  ¿Qué?, pero ¿qué...? ¿Que deponga las armas? - la chica empezó a reír histéricamente - Definitivamente he muerto o me he vuelto loca. Mientras dos a-saber-qué están discutiendo entre ellos, una voz, que a saber de donde viene, me dice que me deshaga de lo\n"
-				+ "único que podría protegerme. Ni en una de mis películas...");
+		System.out.println("	-¿Qué?, pero ¿qué...? ¿Que deponga las armas? -la chica empezó a reír histéricamente-. Definitivamente he muerto o me he vuelto loca.\n"
+				+ "Mientras dos a-saber-qué están discutiendo entre ellos, una voz, que a saber de donde viene, me dice que me deshaga de lo único que podría protegerme.\n"
+				+ "Ni en una de mis películas...");
 		contMaria++;
 		
 		System.out.println();
-		System.out.println("	-En mis 130 años de edad, quedan pocas cosas que me sorprendan… pero esto lo ha logrado. -murmuro el hada, casi como si quisiese que "
+		System.out.println("	-En mis 130 años de edad, quedan pocas cosas que me sorprendan… pero esto lo ha logrado. -murmuro el hada, casi como si quisiese que\n"
 				+ "le pudiesen oir-.");
 		contLucia++;
 		
 		System.out.println();
-		System.out.println("	-¿Dominios tuyos?- Darkan alzó la mirada hacia las copas de los árboles, su voz resonando con\n"
-				+ "una mezcla de desafío y desdén. \n\t-Si realmente esta tierra te pertenece, entonces deberías cuidar mejor de a quién permites deambular por ella.\n"
-				+ "Un hada desterrada, una humana perdida y yo...\n"
-				+ "¿Así es como proteges tus fronteras? Parece que el control de este bosque está lejos de ser tan sólido como tus palabras pretenden.-");
+		System.out.println("	-¿Dominios tuyos? -Darkan alzó la mirada hacia las copas de los árboles, su voz resonando con una mezcla de desafío y desdén-. Si realmente\n"
+				+ "esta tierra te pertenece, entonces deberías cuidar mejor de a quién permites deambular por ella. Un hada desterrada, una humana perdida y yo...\n"
+				+ "¿Así es como proteges tus fronteras? Parece que el control de este bosque está lejos de ser tan sólido como tus palabras pretenden.");
 		contYaroslav++;
 		
 		System.out.println();
 		System.out.println("Mi risa retumba por los árboles, que sobresalta a mis descorteses invitados. <<Muchacho, es considerado de mala educación provocar a tu anfitrión.\n"
-				+ " No se como habeís llegado aquí sin invitacion. Alguna entidad muy poderosa ha debido considerar divertido traeros aqui. No importa>>\n"
+				+ "No se como habeís llegado aquí sin invitacion. Alguna entidad muy poderosa ha debido considerar divertido traeros aqui. No importa>>\n"
 				+ "Una terrible ventolera barre las copas de los árboles y veo como los cabellos de mis tres húesepedes se erizan ante mi presencia. Aparezco entre en frente de\n"
-				+ " los tres con una de mis formas favortias. La del anciano caminante cuyas únicas pertenencias son una vara para el camino y una capa marrón para el polvo."
+				+ "los tres con una de mis formas favortias. La del anciano caminante cuyas únicas pertenencias son una vara para el camino y una capa marrón para el polvo."
 				+ "<<Os doy la bienvenida al la Encrucijada, no os molesteís en preguntarme el nombre pues no tengo. Por favor, sentaos, tenemos mucho de que hablar, a no ser que\n"
-				+ " nuestro valiente Arconte decida que debo someterme a su justicia.>> Miro hacia la imponente figura con tranquilidad, sin perder de vista\n"
-				+ " a la asustada humana y al hada, que parece estara mas sorprendida que aterrorizada");		
+				+ "nuestro valiente Arconte decida que debo someterme a su justicia.>> Miro hacia la imponente figura con tranquilidad, sin perder de vista\n"
+				+ "a la asustada humana y al hada, que parece estara mas sorprendida que aterrorizada");		
 		contSergio++;
 		
 		System.out.println();
 		System.out.println("	-¿Anciano, dices?- Darkan dio un paso adelante, la luz que se filtraba entre los árboles reflejándose en las líneas azules de su piel.\n"
-				+ "\t-O, al menos, eso parece. Pero las apariencias engañan, y tú, más que nadie, deberías saberlo. Este lugar... este bosque... parece estar en desorden.\n"
+				+ "-O, al menos, eso parece. Pero las apariencias engañan, y tú, más que nadie, deberías saberlo. Este lugar... este bosque... parece estar en desorden.\n"
 				+ "Un hada desterrada que clama por venganza, una humana fuera de lugar con su mundo destrozado y yo, un Arconte que nunca pretendió llegar aquí.\n"
 				+ "Y, sin embargo, aquí estamos, juntos, frente a ti.");
 		contYaroslav++;
@@ -179,30 +184,35 @@ public class Dialogo {
 		contSergio++;
 		
 		System.out.println();
-		System.out.println("    - Mi... mi arco... no está... - Elia empezó a llorar. La poca adrenalina que podía quedar en su cuerpo, la mínima valentía que había obtenido al conseguir su arco le abandonaron.\n"
+		System.out.println("	-Mi... mi arco... no está... - Elia empezó a llorar. La poca adrenalina que podía quedar en su cuerpo, la mínima valentía que había obtenido al conseguir su arco le abandonaron.\n"
 				+ "Su mundo se había reducido a cenizas, literalmente.");
 		contMaria++;
 		
 		System.out.println();
-		System.out.println("	-¡Ohh gran voz, tenga piedad de mí sólo soy un anciano, no conozco a estos forasteros! -clamó el anciano hada-. Haga lo que guste con estos "
-				+ "intrusos y dejeme ir. A cambio le pagaré con tod- con gran parte de mis pertenencias -corrigió el hada-, en mis largos años de mi vida he podido "
+		System.out.println("	-¡Ohh gran voz, tenga piedad de mí sólo soy un anciano, no conozco a estos forasteros! -clamó el anciano hada-. Haga lo que guste con estos\n "
+				+ "intrusos y dejeme ir. A cambio le pagaré con tod- con gran parte de mis pertenencias -corrigió el hada-, en mis largos años de mi vida he podido\n "
 				+ "recolectar cientos de cachibaches humanos y feericos, son suyos si me deja ir ileso ¡oh gran voz!");
 		contLucia++;
 		
 		System.out.println();
-		System.out.println("	-Silencio, hada.- Darkan agitó la mano y un pequeño imán que llevaba colgado como "
-				+ "un talismán comenzó a vibrar, atrayendo polvo brillante del aire. -Tu desesperación no me engaña."
-				+ "Este imán ha detectado una energía vinculada a ti. Si sigues con tus mentiras, "
+		System.out.println("	-Silencio, hada.- Darkan agitó la mano y un pequeño imán que llevaba colgado como\n "
+				+ "un talismán comenzó a vibrar, atrayendo polvo brillante del aire. -Tu desesperación no me engaña.\n"
+				+ "Este imán ha detectado una energía vinculada a ti. Si sigues con tus mentiras,\n "
 				+ "puede que lo use para revelar tu verdadera naturaleza.\"\n");
 		contYaroslav++;
 		
 		System.out.println();
 		System.out.println("Suspiro, cansado de la impertinencia del arconte. <<Mi verdadera naturaleza... Debería agradecer que haya tomado una forma tan amable.\n"
-				+ " Me da la sensacion de que no sabes con quien estas hablando. Que así sea pues. Te lo mostaré. Chasqueo los dedos, que sueltan chispas anaranjadas y\n"
-				+ " el osado arconte se convierte en... una rueda de queso ante las atónitas miradas de la humana y el hada. Dejo pasar unos segundos antes de darme por \n"
+				+ "Me da la sensacion de que no sabes con quien estas hablando. Que así sea pues. Te lo mostaré. Chasqueo los dedos, que sueltan chispas anaranjadas y\n"
+				+ "el osado arconte se convierte en... una rueda de queso ante las atónitas miradas de la humana y el hada. Dejo pasar unos segundos antes de darme por \n"
 				+ "satisfecho y volver a chasquear los dedos, devolviendole su cuerpo al gigante arrogante cuyo rostro ha palidecido notablemente. <<Muy bien, si has terminado tu\n"
-				+ " numerito sobre desenmascararme, os invito cordialmente sentarnos alrededor del fuego e intercambiar historias, ¿Qué me decís?>>");
+				+ "numerito sobre desenmascararme, os invito cordialmente sentarnos alrededor del fuego e intercambiar historias, ¿Qué me decís?>>");
 		contSergio++;
+		
+		System.out.println();
+		System.out.println("-¡Por supuesto señor! Necesita que encienda el fuego por usted, ¿unos refrigerios? He pescado unos pececillos con un sabor exquisito, son suyos\n"
+				+ "si así lo desea... -el hada se veía aliviado aunque con cierta desesperación por el susto- Pero señor, ¿está seguro de dejar con vida a estos indeseables?");
+		contLucia++;
 		
 		System.out.println("Sergio: " + contSergio);
 		System.out.println("Maria: " + contMaria);
