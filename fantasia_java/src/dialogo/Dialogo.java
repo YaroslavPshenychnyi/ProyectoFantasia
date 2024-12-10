@@ -104,8 +104,11 @@ public class Dialogo {
 				+ "\t-¿Tienes idea de dónde estás? ¿Crees que tus gritos y tu frágil arco te protegerán en este bosque? \n"
 				+ "Déjame advertirte, tus imprudencias sólo lograrán atraer la atención de fuerzas que no puedes comprender.-");
 		
-		System.out.println(" <<¡Es sufciente!>>. Mi voz se alza sobre los árboles. <<Os he dado la oportunidad para llegar a un acuerdo a través del diálogo, pero veo que los ánimos estan demasiado caldeados, NO permitiré violencia en mis dominios sin mi permiso>>. Veo como\n"
-				+ " los tres se vuelven confusos mientras miran en todas las direcciones, buscando de donde viene mi voz.<<No se cómo habeis llegado aqui y me gustaría escuhar vuestras historias, pero no aceptaré muestras de hostilidad, ¿Está claro?, por favor humana, depón tus armas>>.");		
+		System.out.println();
+		System.out.println(" <<¡Es sufciente!>>. Mi voz se alza sobre los árboles. <<Os he dado la oportunidad para llegar a un acuerdo a través del diálogo, pero\n"
+				+ " veo que los ánimos estan demasiado caldeados, NO permitiré violencia en mis dominios sin mi permiso>>. Veo como\n"
+				+ " los tres se vuelven confusos mientras miran en todas las direcciones, buscando de donde viene mi voz.<<No se cómo habeis llegado aqui y me gustaría\n"
+				+ " escuhar vuestras historias, pero no aceptaré muestras de hostilidad, ¿Está claro?, por favor humana, depón tus armas>>.");		
 		
 		System.out.println();
 		System.out.println("-  ¿Qué?, pero ¿qué...? ¿Que deponga las armas? - la chica empezó a reír histéricamente - Definitivamente he muerto o me he vuelto loca. Mientras dos a-saber-qué están discutiendo entre ellos, una voz, que a saber de donde viene, me dice que me deshaga de lo\n"
@@ -121,9 +124,13 @@ public class Dialogo {
 				+ "Un hada desterrada, una humana perdida y yo...\n"
 				+ "¿Así es como proteges tus fronteras? Parece que el control de este bosque está lejos de ser tan sólido como tus palabras pretenden.-");
 		
-		System.out.println("Mi risa retumba por los árboles, que sobresalta a mis descorteses invitados. <<Muchacho, es considerado de mala educación provocar a tu anfitrión. No se como habeís llegado aquí sin invitacion. Alguna entidad muy poderosa ha debido considerar divertido traeros aqui. No importa>>\n"
-				+ "Una terrible ventolera barre las copas de los árboles y veo como los cabellos de mis tres húesepedes se erizan ante mi presencia. Aparezco entre en frente de los tres con una de mis formas favortias. La del anciano caminante cuyas únicas pertenencias son una vara para el camino y una capa marrón para el polvo."
-				+ "<<Os doy la bienvenida al la Encrucijada, no os molesteís en preguntarme el nombre pues no tengo. Por favor, sentaos, tenemos mucho de que hablar, a no ser que nuestro valiente Arconte decida que debo someterme a su justicia.>> Miro hacia la imponente figura con tranquilidad, sin perder de vista\n"
+		System.out.println();
+		System.out.println("Mi risa retumba por los árboles, que sobresalta a mis descorteses invitados. <<Muchacho, es considerado de mala educación provocar a tu anfitrión.\n"
+				+ " No se como habeís llegado aquí sin invitacion. Alguna entidad muy poderosa ha debido considerar divertido traeros aqui. No importa>>\n"
+				+ "Una terrible ventolera barre las copas de los árboles y veo como los cabellos de mis tres húesepedes se erizan ante mi presencia. Aparezco entre en frente de\n"
+				+ " los tres con una de mis formas favortias. La del anciano caminante cuyas únicas pertenencias son una vara para el camino y una capa marrón para el polvo."
+				+ "<<Os doy la bienvenida al la Encrucijada, no os molesteís en preguntarme el nombre pues no tengo. Por favor, sentaos, tenemos mucho de que hablar, a no ser que\n"
+				+ " nuestro valiente Arconte decida que debo someterme a su justicia.>> Miro hacia la imponente figura con tranquilidad, sin perder de vista\n"
 				+ " a la asustada humana y al hada, que parece estara mas sorprendida que aterrorizada");		
 		
 		System.out.println();
@@ -131,6 +138,14 @@ public class Dialogo {
 				+ "\t-O, al menos, eso parece. Pero las apariencias engañan, y tú, más que nadie, deberías saberlo. Este lugar... este bosque... parece estar en desorden.\n"
 				+ "Un hada desterrada que clama por venganza, una humana fuera de lugar con su mundo destrozado y yo, un Arconte que nunca pretendió llegar aquí.\n"
 				+ "Y, sin embargo, aquí estamos, juntos, frente a ti.");
+		
+		System.out.println();	
+		System.out.println("<<Aqui estais, muy cierto. ¿Por qué estais aqui? Lo ignoro ¿Deberíais estar aquí? Probablemente no, pero la existencia esta plagada de caminos y\n"
+				+ " cada uno de ellos es una nueva aventura. No obstante, tienes razón, las apariencias engañan. Nos os dejeís engañar por mi aspecto, estimados visitantes.\n"
+				+ " Pues no todo es lo que parece aquí>> Mientras termino estas ultimas palabras con una sonrisa, el arco de la humana extraviada se deshace en cenizas. Que da\n"
+				+ " un brinco sobresaltada. <<Ya os he pedido amablemente que enfrieis los animos, pero mi paciencia en ese tema se ha agotado conque os lo pregunto directamente a\n"
+				+ " los tres y sed consicentes de que no es facil engañarme>> digo esto último mientras miro al hada <<  ¿Vais a comportaros como buenos invitados en mi reino.. o no?>>");
+	
 	}
 
 }
