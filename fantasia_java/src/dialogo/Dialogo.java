@@ -223,7 +223,7 @@ public class Dialogo {
 		contSergio++;
 		
 		System.out.println();
-		System.out.println("   - ¿De verdad esperas que me siente a comer con vosotros? - en ese momento las tripas de la chica rugieron con intensidad - <<¿En serio?>> - pensó, perjurando en todos los idiomas que sabía\n"
+		System.out.println("   -¿De verdad esperas que me siente a comer con vosotros? - en ese momento las tripas de la chica rugieron con intensidad - <<¿En serio?>> - pensó, perjurando en todos los idiomas que sabía\n"
 				+ ". Elia miró a su alrededor y se sentó reticentemente lo más alejada posible de todas aquellas criaturas.");
 		contMaria++;
 		
@@ -232,6 +232,11 @@ public class Dialogo {
 				+ "\t-Pero aquí hay un acuerdo tácito: mientras compartas el fuego, no habrá conflicto.\n"
 				+ "Aprovecha esta tregua, pues el bosque no ofrece segundas oportunidades.-");
 		contYaroslav++;
+		
+		System.out.println();
+		System.out.println("    -Creo que es normal sentir miedo en estos momentos - Elia sopesó todas sus posibilidades en aquel instante; en un mundo completamente nuevo (aún se planteaba si realmente había muerto en el accidente),\n"
+				+ "herida, con su arco desaparecido y hambrienta, llegó a la conclusión de que esa tregua que ofrecía el arconte no era tan mala idea. - Gracias. - murmuró cogiendo el plato de comida que le ofrecía.");
+		contMaria++;
 		
 		System.out.println("Sergio: " + contSergio);
 		System.out.println("Maria: " + contMaria);
