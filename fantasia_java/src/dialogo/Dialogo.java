@@ -121,6 +121,10 @@ public class Dialogo {
 				+ "Un hada desterrada, una humana perdida y yo...\n"
 				+ "¿Así es como proteges tus fronteras? Parece que el control de este bosque está lejos de ser tan sólido como tus palabras pretenden.-");
 		
+		System.out.println("Mi risa retumba por los árboles, que sobresalta a mis descorteses invitados. <<Muchacho, es considerado de mala educación provocar a tu anfitrión. No se como habeís llegado aquí sin invitacion. Alguna entidad muy poderosa ha debido considerar divertido traeros aqui. No importa>>\n"
+				+ "Una terrible ventolera barre las copas de los árboles y veo como los cabellos de mis tres húesepedes se erizan ante mi presencia. Aparezco entre en frente de los tres con una de mis formas favortias. La del anciano caminante cuyas únicas pertenencias son una vara para el camino y una capa marrón para el polvo."
+				+ "<<Os doy la bienvenida al la Encrucijada, no os molesteís en preguntarme el nombre pues no tengo. Por favor, sentaos, tenemos mucho de que hablar, a no ser que nuestro valiente Arconte decida que debo someterme a su justicia.>> Miro hacia la imponente figura con tranquilidad, sin perder de vista\n"
+				+ " a la asustada humana y al hada, que parece estara mas sorprendida que aterrorizada");		
 	}
 
 }
