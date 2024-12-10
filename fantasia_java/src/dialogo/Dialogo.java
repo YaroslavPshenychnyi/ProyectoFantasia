@@ -115,6 +115,12 @@ public class Dialogo {
 		System.out.println("	-En mis 130 años de edad, quedan pocas cosas que me sorprendan… pero esto lo ha logrado. -murmuro el hada, casi como si quisiese que "
 				+ "le pudiesen oir-.");
 		
+		System.out.println();
+		System.out.println("	-¿Dominios tuyos?- Darkan alzó la mirada hacia las copas de los árboles, su voz resonando con\n"
+				+ "una mezcla de desafío y desdén. \n\t-Si realmente esta tierra te pertenece, entonces deberías cuidar mejor de a quién permites deambular por ella.\n"
+				+ "Un hada desterrada, una humana perdida y yo...\n"
+				+ "¿Así es como proteges tus fronteras? Parece que el control de este bosque está lejos de ser tan sólido como tus palabras pretenden.-");
+		
 	}
 
 }
